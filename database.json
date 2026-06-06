@@ -2,8 +2,15 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "HORROR",
-  "total": 0,
-  "data": [],
-  "lastSync": "2026-06-03T17:21:33.481Z",
-  "note": "Genre ini masih kosong, isi di Google Sheet"
+  "total": 1,
+  "data": [
+    {
+      "NAMAE": "YVBSUV1MVBV2XFpRXElMQRJ7VVpUUg==",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfDAQWXQQdeQYAWQwPcFtqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfVwQWD1YdYWlWX2NacUhqXxpbSV4=",
+      "LINK": "AwEBBAQKDwAHDQAAAAA="
+    }
+  ],
+  "lastSync": "2026-06-06T17:38:20.809Z",
+  "note": ""
 }
